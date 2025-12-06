@@ -143,8 +143,6 @@ Perfect! I have now **fully updated and customized** the README for your
 
 ---
 
-📍 [https://github.com/Ashwin18-Offcl/SQL_Notes](https://github.com/Ashwin18-Offcl/SQL_Notes)
-
 
 <p align="center">
   <img src="https://github.com/Ashwin18-Offcl/SQL_Notes/blob/master/SQL.png" width="760" alt="SQL Learning Banner">
